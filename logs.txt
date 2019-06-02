@@ -1,0 +1,894 @@
+
+{"name":"Amrit 0","address":"Bangalore"}
+{"name":"Amrit 19","address":"Bangalore"}
+{"name":"Amrit 17","address":"Bangalore"}
+{"name":"Amrit 15","address":"Bangalore"}
+{"name":"Amrit 14","address":"Bangalore"}
+{"name":"Amrit 18","address":"Bangalore"}
+{"name":"Amrit 22","address":"Bangalore"}
+{"name":"Amrit 11","address":"Bangalore"}
+{"name":"Amrit 23","address":"Bangalore"}
+{"name":"Amrit 20","address":"Bangalore"}
+{"name":"Amrit 12","address":"Bangalore"}
+{"name":"Amrit 13","address":"Bangalore"}
+{"name":"Amrit 21","address":"Bangalore"}
+{"name":"Amrit 24","address":"Bangalore"}
+{"name":"Amrit 1","address":"Bangalore"}
+{"name":"Amrit 28","address":"Bangalore"}
+{"name":"Amrit 10","address":"Bangalore"}
+{"name":"Amrit 9","address":"Bangalore"}
+{"name":"Amrit 8","address":"Bangalore"}
+{"name":"Amrit 27","address":"Bangalore"}
+{"name":"Amrit 3","address":"Bangalore"}
+{"name":"Amrit 5","address":"Bangalore"}
+{"name":"Amrit 6","address":"Bangalore"}
+{"name":"Amrit 2","address":"Bangalore"}
+{"name":"Amrit 4","address":"Bangalore"}
+{"name":"Amrit 7","address":"Bangalore"}
+{"name":"Amrit 26","address":"Bangalore"}
+{"name":"Amrit 16","address":"Bangalore"}
+{"name":"Amrit 25","address":"Bangalore"}
+{"name":"Amrit 32","address":"Bangalore"}
+{"name":"Amrit 30","address":"Bangalore"}
+{"name":"Amrit 34","address":"Bangalore"}
+{"name":"Amrit 35","address":"Bangalore"}
+{"name":"Amrit 29","address":"Bangalore"}
+{"name":"Amrit 36","address":"Bangalore"}
+{"name":"Amrit 31","address":"Bangalore"}
+{"name":"Amrit 33","address":"Bangalore"}
+{"name":"Amrit 37","address":"Bangalore"}
+Amrit 26
+Amrit 14
+Amrit 4
+Amrit 35
+Amrit 25
+Amrit 8
+Amrit 28
+Amrit 0
+Amrit 29
+Amrit 24
+Amrit 9
+Amrit 16
+Amrit 6
+Amrit 34
+{"name":"Amrit 39","address":"Bangalore"}
+Amrit 39
+Amrit 10
+{"name":"Amrit 38","address":"Bangalore"}
+Amrit 12
+Amrit 27
+Amrit 23
+Amrit 11
+Amrit 2
+Amrit 15
+Amrit 31
+Amrit 18
+Amrit 30
+{"name":"Amrit 40","address":"Bangalore"}
+Amrit 22
+Amrit 36
+Amrit 17
+Amrit 3
+Amrit 19
+Amrit 13
+Amrit 38
+Amrit 7
+{"name":"Amrit 41","address":"Bangalore"}
+Amrit 33
+Amrit 41
+Amrit 20
+{"name":"Amrit 43","address":"Bangalore"}
+Amrit 21
+Amrit 43
+{"name":"Amrit 44","address":"Bangalore"}
+Amrit 44
+{"name":"Amrit 42","address":"Bangalore"}
+{"name":"Amrit 49","address":"Bangalore"}
+Amrit 42
+Amrit 49
+Amrit 32
+Amrit 5
+Amrit 1
+Amrit 37
+{"name":"Amrit 48","address":"Bangalore"}
+Amrit 48
+{"name":"Amrit 45","address":"Bangalore"}
+Amrit 45
+{"name":"Amrit 47","address":"Bangalore"}
+Amrit 40
+Amrit 47
+{"name":"Amrit 46","address":"Bangalore"}
+Amrit 46
+{"to":"1003","amount":"10000"}
+null
+{"to":"1002","amount":"10000"}
+{"to":"1001","amount":"10000"}
+{"to":"1000","amount":"10000"}
+{"to":"1004","amount":"10000"}
+null
+null
+null
+null
+{"to":"1007","amount":"10000"}
+null
+{"to":"1006","amount":"10000"}
+null
+{"to":"1005","amount":"10000"}
+null
+{"to":"1008","amount":"10000"}
+null
+{"to":"1011","amount":"10000"}
+null
+{"to":"1010","amount":"10000"}
+null
+{"to":"1009","amount":"10000"}
+null
+{"to":"1013","amount":"10000"}
+null
+{"to":"1012","amount":"10000"}
+null
+{"to":"1014","amount":"10000"}
+1012  10000
+null
+1014  10000
+{"to":"1015","amount":"10000"}
+{"to":"1017","amount":"10000"}
+null
+null
+1017  10000
+1015  10000
+{"to":"1018","amount":"10000"}
+null
+1018  10000
+{"to":"1016","amount":"10000"}
+null
+1016  10000
+{"to":"1019","amount":"10000"}
+{"to":"1022","amount":"10000"}
+null
+1019  10000
+null
+1022  10000
+{"to":"1021","amount":"10000"}
+null
+1021  10000
+1013  10000
+1003  10000
+1004  10000
+{"to":"1020","amount":"10000"}
+null
+1020  10000
+1000  10000
+1002  10000
+1006  10000
+1001  10000
+{"to":"1023","amount":"10000"}
+null
+1023  10000
+{"to":"1025","amount":"10000"}
+null
+1025  10000
+{"to":"1024","amount":"10000"}
+1007  10000
+null
+1024  10000
+{"to":"1027","amount":"10000"}
+null
+1027  10000
+1009  10000
+{"to":"1026","amount":"10000"}
+null
+1026  10000
+1010  10000
+1005  10000
+{"to":"1029","amount":"10000"}
+1011  10000
+null
+1029  10000
+1008  10000
+not able to find
+1044
+1045
+1041
+1043
+not able to find
+1001
+1049
+1048
+1040
+1047
+not able to find
+1046
+{"to":"1034","amount":"10000"}
+1034
+{"to":"1030","amount":"10000"}
+null
+1034  10000
+null
+1030  10000
+not able to find
+{"to":"1037","amount":"10000"}
+{"to":"1035","amount":"10000"}
+null
+1037  10000
+{"to":"1031","amount":"10000"}
+1042
+null
+1031  10000
+{"to":"1033","amount":"10000"}
+null
+{"to":"1040","amount":"10000"}
+{"to":"1038","amount":"10000"}
+null
+1040  10000
+1031
+{"to":"1042","amount":"10000"}
+null
+1042  10000
+{"to":"1039","amount":"10000"}
+null
+1039  10000
+balancenow=0.0
+{"to":"1045","amount":"10000"}
+1029
+null
+1032
+1033
+1023
+1021
+1019
+{"to":"1048","amount":"10000"}
+not able to find
+balancenow=0.0
+1035
+1013
+not able to find
+null
+1035  10000
+balancenow=0.0
+1009
+not able to find
+{"to":"1036","amount":"10000"}
+balancenow=0.0
+1006
+1005
+balancenow=0.0
+{"to":"1032","amount":"10000"}
+1036
+1002
+{"to":"1028","amount":"10000"}
+1037
+1039
+1038
+null
+1028  10000
+http-bio-8080-exec-73 before try2019-06-02 18:26:57.354
+http-bio-8080-exec-43 before try2019-06-02 18:26:57.354
+http-bio-8080-exec-85 before try2019-06-02 18:26:57.354
+http-bio-8080-exec-25 before try2019-06-02 18:26:57.354
+http-bio-8080-exec-77 before try2019-06-02 18:26:57.354
+null
+1032  10000
+http-bio-8080-exec-25 says accuire lock 2019-06-02 18:26:57.355
+null
+1036  10000
+balancenow=0.0
+balancenow=0.0
+{"to":"1049","amount":"10000"}
+{"from":"1002","to":"1001","amount":"100"}
+http-bio-8080-exec-82 before try2019-06-02 18:26:57.355
+balancenow=0.0
+balancenow=0.0
+http-bio-8080-exec-82 says accuire lock 2019-06-02 18:26:57.356
+http-bio-8080-exec-15 before try2019-06-02 18:26:57.356
+{"from":"1000","to":"1007","amount":"100"}
+balancenow=0.0
+http-bio-8080-exec-15 says accuire lock 2019-06-02 18:26:57.356
+{"from":"1001","to":"1009","amount":"100"}
+balancenow=0.0
+null
+{"from":"1006","to":"1001","amount":"100"}
+balancenow=0.0
+http-bio-8080-exec-65 before try2019-06-02 18:26:57.356
+http-bio-8080-exec-32 before try2019-06-02 18:26:57.356
+http-bio-8080-exec-68 before try2019-06-02 18:26:57.356
+balancenow=0.0
+balancenow=0.0
+{"from":"1008","to":"1001","amount":"100"}
+balancenow=0.0
+http-bio-8080-exec-70 before try2019-06-02 18:26:57.356
+balancenow=0.0
+http-bio-8080-exec-71 before try2019-06-02 18:26:57.356
+http-bio-8080-exec-70 says accuire lock 2019-06-02 18:26:57.356
+http-bio-8080-exec-72 before try2019-06-02 18:26:57.356
+http-bio-8080-exec-71 says accuire lock 2019-06-02 18:26:57.356
+updated balancenow=10000.0
+1000
+1003
+1004
+balancenow=0.0
+1007
+1008
+{"from":"1010","to":"1006","amount":"100"}
+not able to find
+1025
+1017
+1024
+1028
+1030
+not able to find
+not able to find
+not able to find
+not able to find
+balancenow=0.0
+balancenow=0.0
+1010
+balancenow=0.0
+1011
+http-bio-8080-exec-75 before try2019-06-02 18:26:57.360
+{"from":"1009","to":"1004","amount":"100"}
+1012
+http-bio-8080-exec-75 says accuire lock 2019-06-02 18:26:57.360
+updated balancenow=10000.0
+not able to find
+1014
+1015
+null
+1048  10000
+balancenow=0.0
+1016
+balancenow=0.0
+1018
+1020
+http-bio-8080-exec-78 before try2019-06-02 18:26:57.360
+not able to find
+1022
+{"to":"1047","amount":"10000"}
+not able to find
+1026
+1045  10000
+1027
+{"to":"1046","amount":"10000"}
+balancenow=0.0
+null
+1046  10000
+balancenow=0.0
+{"to":"1044","amount":"10000"}
+{"to":"1043","amount":"10000"}
+http-bio-8080-exec-2 before try2019-06-02 18:26:57.361
+null
+1043  10000
+{"to":"1041","amount":"10000"}
+null
+1033  10000
+1038  10000
+{"from":"1011","to":"1008","amount":"100"}
+null
+1041  10000
+null
+http-bio-8080-exec-2 says accuire lock 2019-06-02 18:26:57.361
+balancenow=0.0
+null
+1044  10000
+http-bio-8080-exec-4 before try2019-06-02 18:26:57.361
+balancenow=0.0
+null
+http-bio-8080-exec-4 says accuire lock 2019-06-02 18:26:57.362
+http-bio-8080-exec-36 before try2019-06-02 18:26:57.362
+http-bio-8080-exec-78 says accuire lock 2019-06-02 18:26:57.360
+{"from":"1013","to":"1004","amount":"100"}
+http-bio-8080-exec-47 before try2019-06-02 18:26:57.360
+null
+null
+null
+http-bio-8080-exec-74 before try2019-06-02 18:26:57.359
+{"from":"1007","to":"1004","amount":"100"}
+http-bio-8080-exec-54 before try2019-06-02 18:26:57.358
+http-bio-8080-exec-63 before try2019-06-02 18:26:57.357
+http-bio-8080-exec-72 says accuire lock 2019-06-02 18:26:57.357
+updated balancenow=10000.0
+null
+http-bio-8080-exec-69 before try2019-06-02 18:26:57.356
+http-bio-8080-exec-68 says accuire lock 2019-06-02 18:26:57.356
+http-bio-8080-exec-62 before try2019-06-02 18:26:57.363
+http-bio-8080-exec-69 says accuire lock 2019-06-02 18:26:57.363
+http-bio-8080-exec-32 says accuire lock 2019-06-02 18:26:57.356
+http-bio-8080-exec-65 says accuire lock 2019-06-02 18:26:57.356
+null
+http-bio-8080-exec-54 says accuire lock 2019-06-02 18:26:57.363
+http-bio-8080-exec-67 before try2019-06-02 18:26:57.356
+updated balancenow=10000.0
+null
+http-bio-8080-exec-66 before try2019-06-02 18:26:57.356
+{"from":"1005","to":"1006","amount":"100"}
+updated balancenow=10000.0
+null
+null
+http-bio-8080-exec-44 before try2019-06-02 18:26:57.355
+{"from":"1004","to":"1005","amount":"100"}
+balancenow=0.0
+http-bio-8080-exec-44 says accuire lock 2019-06-02 18:26:57.364
+http-bio-8080-exec-77 says accuire lock 2019-06-02 18:26:57.355
+updated balancenow=10000.0
+balancenow=0.0
+http-bio-8080-exec-85 says accuire lock 2019-06-02 18:26:57.355
+updated balancenow=10000.0
+http-bio-8080-exec-84 before try2019-06-02 18:26:57.364
+http-bio-8080-exec-43 says accuire lock 2019-06-02 18:26:57.355
+http-bio-8080-exec-73 says accuire lock 2019-06-02 18:26:57.355
+balancenow=0.0
+{"from":"1003","to":"1008","amount":"100"}
+updated balancenow=10000.0
+updated balancenow=10000.0
+updated balancenow=10000.0
+http-bio-8080-exec-86 before try2019-06-02 18:26:57.364
+updated balancenow=10000.0
+null
+http-bio-8080-exec-80 before try2019-06-02 18:26:57.363
+1049  10000
+null
+http-bio-8080-exec-66 says accuire lock 2019-06-02 18:26:57.363
+http-bio-8080-exec-16 before try2019-06-02 18:26:57.363
+http-bio-8080-exec-67 says accuire lock 2019-06-02 18:26:57.363
+http-bio-8080-exec-14 before try2019-06-02 18:26:57.363
+http-bio-8080-exec-16 says accuire lock 2019-06-02 18:26:57.365
+http-bio-8080-exec-86 says accuire lock 2019-06-02 18:26:57.365
+updated balancenow=10000.0
+updated balancenow=10000.0
+balancenow=0.0
+updated balancenow=10000.0
+updated balancenow=10000.0
+http-bio-8080-exec-63 says accuire lock 2019-06-02 18:26:57.363
+updated balancenow=10000.0
+null
+http-bio-8080-exec-74 says accuire lock 2019-06-02 18:26:57.362
+http-bio-8080-exec-7 before try2019-06-02 18:26:57.362
+http-bio-8080-exec-56 before try2019-06-02 18:26:57.362
+http-bio-8080-exec-40 before try2019-06-02 18:26:57.362
+http-bio-8080-exec-47 says accuire lock 2019-06-02 18:26:57.362
+http-bio-8080-exec-36 says accuire lock 2019-06-02 18:26:57.362
+updated balancenow=10000.0
+updated balancenow=10000.0
+updated balancenow=10000.0
+1047  10000
+http-bio-8080-exec-38 before try2019-06-02 18:26:57.362
+{"from":"1012","to":"1006","amount":"100"}
+balancenow=0.0
+http-bio-8080-exec-38 says accuire lock 2019-06-02 18:26:57.366
+updated balancenow=10000.0
+http-bio-8080-exec-58 before try2019-06-02 18:26:57.362
+updated balancenow=10000.0
+balancenow=0.0
+balancenow=0.0
+balancenow=0.0
+http-bio-8080-exec-6 before try2019-06-02 18:26:57.366
+http-bio-8080-exec-9 before try2019-06-02 18:26:57.366
+null
+balancenow=0.0
+updated balancenow=10000.0
+http-bio-8080-exec-56 says accuire lock 2019-06-02 18:26:57.365
+http-bio-8080-exec-31 before try2019-06-02 18:26:57.366
+http-bio-8080-exec-30 before try2019-06-02 18:26:57.365
+updated balancenow=10000.0
+http-bio-8080-exec-31 says accuire lock 2019-06-02 18:26:57.366
+updated balancenow=10000.0
+http-bio-8080-exec-64 before try2019-06-02 18:26:57.365
+http-bio-8080-exec-62 says accuire lock 2019-06-02 18:26:57.365
+http-bio-8080-exec-59 before try2019-06-02 18:26:57.365
+updated balancenow=10000.0
+http-bio-8080-exec-45 before try2019-06-02 18:26:57.364
+http-bio-8080-exec-80 says accuire lock 2019-06-02 18:26:57.367
+http-bio-8080-exec-79 before try2019-06-02 18:26:57.365
+updated balancenow=10000.0
+http-bio-8080-exec-14 says accuire lock 2019-06-02 18:26:57.367
+http-bio-8080-exec-79 says accuire lock 2019-06-02 18:26:57.367
+updated balancenow=10000.0
+updated balancenow=10000.0
+http-bio-8080-exec-84 says accuire lock 2019-06-02 18:26:57.364
+null
+updated balancenow=10000.0
+http-bio-8080-exec-7 says accuire lock 2019-06-02 18:26:57.367
+http-bio-8080-exec-58 says accuire lock 2019-06-02 18:26:57.367
+http-bio-8080-exec-87 before try2019-06-02 18:26:57.367
+http-bio-8080-exec-59 says accuire lock 2019-06-02 18:26:57.367
+http-bio-8080-exec-87 says accuire lock 2019-06-02 18:26:57.367
+http-bio-8080-exec-64 says accuire lock 2019-06-02 18:26:57.366
+http-bio-8080-exec-30 says accuire lock 2019-06-02 18:26:57.366
+updated balancenow=10000.0
+http-bio-8080-exec-33 before try2019-06-02 18:26:57.366
+http-bio-8080-exec-9 says accuire lock 2019-06-02 18:26:57.366
+http-bio-8080-exec-6 says accuire lock 2019-06-02 18:26:57.366
+http-bio-8080-exec-33 says accuire lock 2019-06-02 18:26:57.368
+http-bio-8080-exec-83 before try2019-06-02 18:26:57.366
+http-bio-8080-exec-81 before try2019-06-02 18:26:57.366
+updated balancenow=10000.0
+updated balancenow=10000.0
+http-bio-8080-exec-40 says accuire lock 2019-06-02 18:26:57.368
+updated balancenow=10000.0
+http-bio-8080-exec-81 says accuire lock 2019-06-02 18:26:57.368
+http-bio-8080-exec-83 says accuire lock 2019-06-02 18:26:57.368
+updated balancenow=10000.0
+updated balancenow=10000.0
+{"from":"1014","to":"1003","amount":"100"}
+null
+http-bio-8080-exec-3 before try2019-06-02 18:26:57.372
+http-bio-8080-exec-3 says accuire lock 2019-06-02 18:26:57.372
+{"from":"1016","to":"1009","amount":"100"}
+{"from":"1015","to":"1008","amount":"100"}
+null
+null
+http-bio-8080-exec-49 before try2019-06-02 18:26:57.401
+http-bio-8080-exec-50 before try2019-06-02 18:26:57.401
+http-bio-8080-exec-49 says accuire lock 2019-06-02 18:26:57.401
+http-bio-8080-exec-50 says accuire lock 2019-06-02 18:26:57.401
+{"from":"1017","to":"1009","amount":"100"}
+{"from":"1018","to":"1006","amount":"100"}
+{"from":"1019","to":"1005","amount":"100"}
+{"from":"1021","to":"1009","amount":"100"}
+null
+{"from":"1020","to":"1000","amount":"100"}
+null
+null
+{"from":"1022","to":"1003","amount":"100"}
+null
+null
+null
+http-bio-8080-exec-26 before try2019-06-02 18:26:57.406
+http-bio-8080-exec-60 before try2019-06-02 18:26:57.406
+http-bio-8080-exec-5 before try2019-06-02 18:26:57.406
+http-bio-8080-exec-29 before try2019-06-02 18:26:57.406
+http-bio-8080-exec-26 says accuire lock 2019-06-02 18:26:57.406
+{"from":"1023","to":"1003","amount":"100"}
+http-bio-8080-exec-48 before try2019-06-02 18:26:57.406
+http-bio-8080-exec-1 before try2019-06-02 18:26:57.406
+null
+{"from":"1024","to":"1006","amount":"100"}
+http-bio-8080-exec-48 says accuire lock 2019-06-02 18:26:57.406
+http-bio-8080-exec-1 says accuire lock 2019-06-02 18:26:57.406
+{"from":"1027","to":"1004","amount":"100"}
+null
+{"from":"1025","to":"1000","amount":"100"}
+http-bio-8080-exec-24 before try2019-06-02 18:26:57.406
+null
+{"from":"1026","to":"1002","amount":"100"}
+http-bio-8080-exec-52 before try2019-06-02 18:26:57.406
+null
+null
+http-bio-8080-exec-18 before try2019-06-02 18:26:57.407
+{"from":"1029","to":"1009","amount":"100"}
+http-bio-8080-exec-11 before try2019-06-02 18:26:57.407
+null
+http-bio-8080-exec-37 before try2019-06-02 18:26:57.407
+http-bio-8080-exec-55 before try2019-06-02 18:26:57.407
+http-bio-8080-exec-37 says accuire lock 2019-06-02 18:26:57.407
+{"from":"1030","to":"1006","amount":"100"}
+{"from":"1028","to":"1001","amount":"100"}
+null
+null
+http-bio-8080-exec-12 before try2019-06-02 18:26:57.407
+http-bio-8080-exec-22 before try2019-06-02 18:26:57.407
+{"from":"1032","to":"1006","amount":"100"}
+{"from":"1031","to":"1006","amount":"100"}
+null
+null
+http-bio-8080-exec-22 says accuire lock 2019-06-02 18:26:57.407
+{"from":"1033","to":"1005","amount":"100"}
+http-bio-8080-exec-23 before try2019-06-02 18:26:57.408
+http-bio-8080-exec-51 before try2019-06-02 18:26:57.408
+null
+{"from":"1034","to":"1000","amount":"100"}
+http-bio-8080-exec-41 before try2019-06-02 18:26:57.408
+null
+{"from":"1035","to":"1002","amount":"100"}
+http-bio-8080-exec-46 before try2019-06-02 18:26:57.408
+null
+{"from":"1036","to":"1007","amount":"100"}
+null
+http-bio-8080-exec-71 before try2019-06-02 18:26:57.408
+{"from":"1037","to":"1006","amount":"100"}
+http-bio-8080-exec-28 before try2019-06-02 18:26:57.408
+null
+http-bio-8080-exec-28 says accuire lock 2019-06-02 18:26:57.408
+http-bio-8080-exec-53 before try2019-06-02 18:26:57.408
+{"from":"1039","to":"1003","amount":"100"}
+{"from":"1038","to":"1004","amount":"100"}
+{"from":"1041","to":"1003","amount":"100"}
+null
+null
+{"from":"1040","to":"1000","amount":"100"}
+null
+http-bio-8080-exec-10 before try2019-06-02 18:26:57.409
+null
+http-bio-8080-exec-57 before try2019-06-02 18:26:57.409
+http-bio-8080-exec-34 before try2019-06-02 18:26:57.409
+http-bio-8080-exec-39 before try2019-06-02 18:26:57.409
+{"from":"1042","to":"1002","amount":"100"}
+null
+{"from":"1043","to":"1006","amount":"100"}
+http-bio-8080-exec-75 before try2019-06-02 18:26:57.410
+{"from":"1044","to":"1004","amount":"100"}
+null
+null
+http-bio-8080-exec-76 before try2019-06-02 18:26:57.410
+http-bio-8080-exec-8 before try2019-06-02 18:26:57.410
+{"from":"1045","to":"1005","amount":"100"}
+null
+{"from":"1046","to":"1006","amount":"100"}
+http-bio-8080-exec-19 before try2019-06-02 18:26:57.410
+null
+{"from":"1047","to":"1004","amount":"100"}
+http-bio-8080-exec-20 before try2019-06-02 18:26:57.411
+null
+http-bio-8080-exec-35 before try2019-06-02 18:26:57.411
+{"from":"1049","to":"1001","amount":"100"}
+null
+{"from":"1048","to":"1009","amount":"100"}
+http-bio-8080-exec-21 before try2019-06-02 18:26:57.411
+null
+http-bio-8080-exec-61 before try2019-06-02 18:26:57.412
+http-bio-8080-exec-40 - Amrit 13 - balance is 9900.0
+http-bio-8080-exec-40 - Amrit 40 - balance is 100.0
+http-bio-8080-exec-3 - Amrit 3 - balance is 9900.0
+http-bio-8080-exec-3 - Amrit 45 - balance is 100.0
+http-bio-8080-exec-5 says accuire lock 2019-06-02 18:26:58.373
+http-bio-8080-exec-49 - Amrit 19 - balance is 9900.0
+http-bio-8080-exec-50 - Amrit 17 - balance is 9900.0
+http-bio-8080-exec-49 - Amrit 20 - balance is 100.0
+http-bio-8080-exec-50 - Amrit 41 - balance is 100.0
+http-bio-8080-exec-60 says accuire lock 2019-06-02 18:26:58.406
+http-bio-8080-exec-26 - Amrit 18 - balance is 9900.0
+http-bio-8080-exec-37 - Amrit 27 - balance is 9900.0
+http-bio-8080-exec-1 - Amrit 30 - balance is 9900.0
+http-bio-8080-exec-48 - Amrit 36 - balance is 9900.0
+http-bio-8080-exec-1 - Amrit 47 - balance is 100.0
+http-bio-8080-exec-37 - Amrit 48 - balance is 100.0
+http-bio-8080-exec-26 - Amrit 26 - balance is 100.0
+http-bio-8080-exec-48 - Amrit 46 - balance is 100.0
+http-bio-8080-exec-41 says accuire lock 2019-06-02 18:26:58.410
+http-bio-8080-exec-71 says accuire lock 2019-06-02 18:26:58.410
+http-bio-8080-exec-52 says accuire lock 2019-06-02 18:26:58.411
+http-bio-8080-exec-11 says accuire lock 2019-06-02 18:26:58.411
+http-bio-8080-exec-12 says accuire lock 2019-06-02 18:26:58.411
+http-bio-8080-exec-23 says accuire lock 2019-06-02 18:26:58.411
+http-bio-8080-exec-22 - Amrit 10 - balance is 9900.0
+http-bio-8080-exec-28 - Amrit 0 - balance is 9900.0
+http-bio-8080-exec-22 - Amrit 37 - balance is 10100.0
+http-bio-8080-exec-28 - Amrit 21 - balance is 100.0
+http-bio-8080-exec-21 says accuire lock 2019-06-02 18:26:58.411
+http-bio-8080-exec-5 - Amrit 15 - balance is 9900.0
+http-bio-8080-exec-5 - Amrit 45 - balance is 200.0
+http-bio-8080-exec-24 says accuire lock 2019-06-02 18:26:59.374
+http-bio-8080-exec-60 - Amrit 22 - balance is 9900.0
+http-bio-8080-exec-60 - Amrit 41 - balance is 200.0
+http-bio-8080-exec-29 says fail to accuire lock2019-06-02 18:26:59.407
+http-bio-8080-exec-55 says accuire lock 2019-06-02 18:26:59.407
+http-bio-8080-exec-18 says fail to accuire lock2019-06-02 18:26:59.408
+http-bio-8080-exec-61 says accuire lock 2019-06-02 18:26:59.408
+http-bio-8080-exec-51 says fail to accuire lock2019-06-02 18:26:59.408
+http-bio-8080-exec-46 says fail to accuire lock2019-06-02 18:26:59.409
+http-bio-8080-exec-53 says fail to accuire lock2019-06-02 18:26:59.409
+http-bio-8080-exec-57 says fail to accuire lock2019-06-02 18:26:59.410
+http-bio-8080-exec-39 says fail to accuire lock2019-06-02 18:26:59.410
+http-bio-8080-exec-34 says fail to accuire lock2019-06-02 18:26:59.410
+http-bio-8080-exec-10 says fail to accuire lock2019-06-02 18:26:59.410
+http-bio-8080-exec-75 says fail to accuire lock2019-06-02 18:26:59.410
+http-bio-8080-exec-76 says fail to accuire lock2019-06-02 18:26:59.410
+http-bio-8080-exec-8 says fail to accuire lock2019-06-02 18:26:59.410
+http-bio-8080-exec-20 says fail to accuire lock2019-06-02 18:26:59.411
+http-bio-8080-exec-11 - Amrit 23 - balance is 9900.0
+http-bio-8080-exec-19 says fail to accuire lock2019-06-02 18:26:59.411
+http-bio-8080-exec-35 says fail to accuire lock2019-06-02 18:26:59.411
+http-bio-8080-exec-23 - Amrit 6 - balance is 9900.0
+http-bio-8080-exec-23 - Amrit 46 - balance is 200.0
+http-bio-8080-exec-41 - Amrit 9 - balance is 9900.0
+http-bio-8080-exec-11 - Amrit 26 - balance is 200.0
+http-bio-8080-exec-21 - Amrit 1 - balance is 9900.0
+http-bio-8080-exec-71 - Amrit 29 - balance is 9900.0
+http-bio-8080-exec-21 - Amrit 37 - balance is 10200.0
+http-bio-8080-exec-41 - Amrit 47 - balance is 200.0
+http-bio-8080-exec-71 - Amrit 48 - balance is 200.0
+http-bio-8080-exec-45 says accuire lock 2019-06-02 18:26:59.412
+http-bio-8080-exec-24 - Amrit 2 - balance is 9900.0
+http-bio-8080-exec-24 - Amrit 45 - balance is 300.0
+http-bio-8080-exec-61 - Amrit 5 - balance is 9900.0
+http-bio-8080-exec-61 - Amrit 41 - balance is 300.0
+{"account":"1001"}
+{"account":"1008"}
+{"account":"1005"}
+null
+{"account":"1011"}
+1008  1008
+updated balancenow=100.0
+{"account":"1006"}
+null
+1006  1006
+updated balancenow=200.0
+{"account":"1010"}
+null
+1010  1010
+updated balancenow=0.0
+{"account":"1016"}
+{"account":"1012"}
+{"account":"1015"}
+{"account":"1014"}
+null
+1014  1014
+updated balancenow=9900.0
+{"account":"1019"}
+null
+1019  1019
+updated balancenow=9900.0
+{"account":"1013"}
+null
+1013  1013
+updated balancenow=9900.0
+{"account":"1020"}
+null
+1020  1020
+updated balancenow=9900.0
+{"account":"1000"}
+null
+{"account":"1018"}
+{"account":"1009"}
+null
+1018  1018
+updated balancenow=9900.0
+{"account":"1017"}
+null
+1017  1017
+updated balancenow=9900.0
+{"account":"1007"}
+null
+1007  1007
+updated balancenow=100.0
+{"account":"1022"}
+null
+1022  1022
+updated balancenow=9900.0
+{"account":"1021"}
+null
+1021  1021
+updated balancenow=10000.0
+{"account":"1023"}
+{"account":"1024"}
+null
+1011  1011
+null
+1012  1012
+updated balancenow=0.0
+{"account":"1002"}
+null
+1005  1005
+updated balancenow=200.0
+null
+1001  1001
+updated balancenow=10200.0
+null
+1016  1016
+updated balancenow=9900.0
+null
+1002  1002
+updated balancenow=200.0
+updated balancenow=0.0
+null
+1024  1024
+updated balancenow=0.0
+null
+1023  1023
+updated balancenow=9900.0
+{"account":"1003"}
+null
+1003  1003
+{"account":"1028"}
+null
+1028  1028
+updated balancenow=9900.0
+{"account":"1027"}
+null
+1027  1027
+updated balancenow=10000.0
+null
+1009  1009
+updated balancenow=300.0
+1000  1000
+updated balancenow=200.0
+{"account":"1004"}
+null
+1015  1015
+updated balancenow=9900.0
+null
+1004  1004
+updated balancenow=100.0
+{"account":"1025"}
+null
+1025  1025
+{"account":"1026"}
+null
+1026  1026
+updated balancenow=9900.0
+updated balancenow=300.0
+updated balancenow=9900.0
+{"account":"1030"}
+null
+1030  1030
+{"account":"1032"}
+{"account":"1033"}
+null
+1032  1032
+{"account":"1031"}
+updated balancenow=0.0
+null
+1031  1031
+updated balancenow=9900.0
+{"account":"1034"}
+{"account":"1029"}
+null
+1034  1034
+null
+1029  1029
+updated balancenow=0.0
+updated balancenow=10000.0
+null
+1033  1033
+updated balancenow=9900.0
+updated balancenow=10000.0
+{"account":"1036"}
+{"account":"1040"}
+{"account":"1039"}
+{"account":"1038"}
+null
+{"account":"1035"}
+null
+null
+1035  1035
+1039  1039
+updated balancenow=9900.0
+updated balancenow=10000.0
+null
+1036  1036
+{"account":"1037"}
+null
+1037  1037
+updated balancenow=10000.0
+null
+1040  1040
+updated balancenow=10000.0
+updated balancenow=9900.0
+1038  1038
+updated balancenow=10000.0
+{"account":"1041"}
+{"account":"1043"}
+null
+1041  1041
+{"account":"1042"}
+updated balancenow=10000.0
+null
+1042  1042
+null
+{"account":"1045"}
+updated balancenow=10000.0
+{"account":"1044"}
+null
+1045  1045
+1043  1043
+updated balancenow=10000.0
+null
+1044  1044
+updated balancenow=10000.0
+updated balancenow=10000.0
+{"account":"1048"}
+{"account":"1046"}
+{"account":"1047"}
+null
+{"account":"1049"}
+null
+null
+null
+1047  1047
+1046  1046
+updated balancenow=10000.0
+updated balancenow=10000.0
+1049  1049
+updated balancenow=9900.0
+1048  1048
+updated balancenow=9900.0
