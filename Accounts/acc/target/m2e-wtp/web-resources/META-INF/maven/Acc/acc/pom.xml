@@ -17,6 +17,9 @@
 
   <dependencyManagement>
   	  <dependencies>
+  	  <!-- https://mvnrepository.com/artifact/com.squareup.okhttp/okhttp -->
+<dependency> <groupId>com.squareup.okio</groupId> <artifactId>okio</artifactId> <version>1.11.0</version> </dependency> <dependency> <groupId>com.squareup.okhttp3</groupId> <artifactId>okhttp</artifactId> <version>3.5.0</version> </dependency>
+  	  
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
@@ -27,6 +30,14 @@
 			<artifactId>javax.servlet-api</artifactId>
 			<scope>provided</scope>
 		</dependency>
+		<!-- https://mvnrepository.com/artifact/com.googlecode.json-simple/json-simple -->
+		<dependency>
+    <groupId>com.googlecode.json-simple</groupId>
+    <artifactId>json-simple</artifactId>
+    <version>1.1</version>
+</dependency>
+		
+		
   </dependencies>
   </dependencyManagement>
   
