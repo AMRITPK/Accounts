@@ -79,3 +79,14 @@ The threads wait for upto 2seconds and if lock is not obtained it responds with 
 
 --results are in results.txt
 --logs are in logs.txt
+
+---ASSUMPTIONS--
+input validations skipped
+inmemory DB
+one Bank only considered
+minimal functions supported
+There is a possibility to optimise as read lock only - could not implement due to time constraints
+A few unused code would be present which could not be removed 
+Not every funciton unit test cases written
+Could not write code for web based testing in JAVA. Uploaded a node js code/script which I used for testing concurrent requests
+
